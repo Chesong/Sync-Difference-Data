@@ -2010,13 +2010,6 @@
 2013 2
 2014 1
 2015 2
-Number of tries: 2016
-Something went wrong response was better than 30 ms
-My time (hour): 21 hours and 21 hours
-My time (minutes): 55 minutes and 55 minutes
-My time (seconds): 40 seconds and 40 seconds
-My time (miliseconds): 154 ms 135 ms so difference after CI is 19
-2016 19
 2017 1
 2018 2
 2019 1
@@ -3002,13 +2995,6 @@ My time (miliseconds): 154 ms 135 ms so difference after CI is 19
 2999 1
 3000 2
 3001 1
-Number of tries: 3002
-Something went wrong response was better than 30 ms
-My time (hour): 21 hours and 21 hours
-My time (minutes): 58 minutes and 58 minutes
-My time (seconds): 42 seconds and 42 seconds
-My time (miliseconds): 525 ms 507 ms so difference after CI is 18
-3002 18
 3003 1
 3004 1
 3005 1
@@ -3104,14 +3090,6 @@ My time (miliseconds): 525 ms 507 ms so difference after CI is 18
 3095 2
 3096 1
 3097 1
-Their time is greater than ours
-Number of tries: 3098
-Something went wrong response was better than 30 ms
-My time (hour): 21 hours and 21 hours
-My time (minutes): 59 minutes and 58 minutes
-My time (seconds): 0 seconds and 59 seconds
-My time (miliseconds): 14 ms 984 ms so difference after CI is 0
-3098 0
 3099 2
 3100 2
 3101 1
